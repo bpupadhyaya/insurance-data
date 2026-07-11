@@ -1,0 +1,310 @@
+{
+  "meta": {
+    "sourceName": "MoneyGeek motorcycle insurance rate survey (sample rider profile)",
+    "sourceURL": "https://www.moneygeek.com/insurance/motorcycle/average-cost-of-motorcycle-insurance/",
+    "snapshotDate": "2026-07-10",
+    "riderProfile": "40-year-old rider, no violations, 2018 Honda Rebel 500 ABS"
+  },
+  "states": {
+    "Alabama": {
+      "minMonthly": 8,
+      "minAnnual": 90,
+      "fullMonthly": 23,
+      "fullAnnual": 273
+    },
+    "Alaska": {
+      "minMonthly": 6,
+      "minAnnual": 75,
+      "fullMonthly": 17,
+      "fullAnnual": 200
+    },
+    "Arizona": {
+      "minMonthly": 9,
+      "minAnnual": 103,
+      "fullMonthly": 32,
+      "fullAnnual": 380
+    },
+    "Arkansas": {
+      "minMonthly": 8,
+      "minAnnual": 94,
+      "fullMonthly": 34,
+      "fullAnnual": 411
+    },
+    "California": {
+      "minMonthly": 15,
+      "minAnnual": 179,
+      "fullMonthly": 32,
+      "fullAnnual": 380
+    },
+    "Colorado": {
+      "minMonthly": 8,
+      "minAnnual": 91,
+      "fullMonthly": 27,
+      "fullAnnual": 321
+    },
+    "Connecticut": {
+      "minMonthly": 13,
+      "minAnnual": 151,
+      "fullMonthly": 29,
+      "fullAnnual": 349
+    },
+    "Delaware": {
+      "minMonthly": 20,
+      "minAnnual": 241,
+      "fullMonthly": 39,
+      "fullAnnual": 466
+    },
+    "Florida": {
+      "minMonthly": 11,
+      "minAnnual": 135,
+      "fullMonthly": 25,
+      "fullAnnual": 297
+    },
+    "Georgia": {
+      "minMonthly": 9,
+      "minAnnual": 103,
+      "fullMonthly": 33,
+      "fullAnnual": 399
+    },
+    "Hawaii": {
+      "minMonthly": 9,
+      "minAnnual": 112,
+      "fullMonthly": 29,
+      "fullAnnual": 351
+    },
+    "Idaho": {
+      "minMonthly": 10,
+      "minAnnual": 116,
+      "fullMonthly": 29,
+      "fullAnnual": 352
+    },
+    "Illinois": {
+      "minMonthly": 15,
+      "minAnnual": 176,
+      "fullMonthly": 35,
+      "fullAnnual": 417
+    },
+    "Indiana": {
+      "minMonthly": 9,
+      "minAnnual": 107,
+      "fullMonthly": 37,
+      "fullAnnual": 449
+    },
+    "Iowa": {
+      "minMonthly": 8,
+      "minAnnual": 91,
+      "fullMonthly": 20,
+      "fullAnnual": 238
+    },
+    "Kansas": {
+      "minMonthly": 8,
+      "minAnnual": 98,
+      "fullMonthly": 19,
+      "fullAnnual": 231
+    },
+    "Kentucky": {
+      "minMonthly": 11,
+      "minAnnual": 131,
+      "fullMonthly": 38,
+      "fullAnnual": 456
+    },
+    "Louisiana": {
+      "minMonthly": 14,
+      "minAnnual": 170,
+      "fullMonthly": 38,
+      "fullAnnual": 459
+    },
+    "Maine": {
+      "minMonthly": 13,
+      "minAnnual": 161,
+      "fullMonthly": 27,
+      "fullAnnual": 319
+    },
+    "Maryland": {
+      "minMonthly": 13,
+      "minAnnual": 154,
+      "fullMonthly": 31,
+      "fullAnnual": 373
+    },
+    "Massachusetts": {
+      "minMonthly": 12,
+      "minAnnual": 139,
+      "fullMonthly": 28,
+      "fullAnnual": 335
+    },
+    "Michigan": {
+      "minMonthly": 16,
+      "minAnnual": 186,
+      "fullMonthly": 38,
+      "fullAnnual": 456
+    },
+    "Minnesota": {
+      "minMonthly": 7,
+      "minAnnual": 85,
+      "fullMonthly": 19,
+      "fullAnnual": 224
+    },
+    "Mississippi": {
+      "minMonthly": 9,
+      "minAnnual": 107,
+      "fullMonthly": 44,
+      "fullAnnual": 530
+    },
+    "Missouri": {
+      "minMonthly": 19,
+      "minAnnual": 225,
+      "fullMonthly": 41,
+      "fullAnnual": 496
+    },
+    "Montana": {
+      "minMonthly": 7,
+      "minAnnual": 86,
+      "fullMonthly": 14,
+      "fullAnnual": 170
+    },
+    "Nebraska": {
+      "minMonthly": 14,
+      "minAnnual": 167,
+      "fullMonthly": 29,
+      "fullAnnual": 344
+    },
+    "Nevada": {
+      "minMonthly": 9,
+      "minAnnual": 109,
+      "fullMonthly": 40,
+      "fullAnnual": 485
+    },
+    "New Hampshire": {
+      "minMonthly": 17,
+      "minAnnual": 206,
+      "fullMonthly": 30,
+      "fullAnnual": 358
+    },
+    "New Jersey": {
+      "minMonthly": 23,
+      "minAnnual": 271,
+      "fullMonthly": 46,
+      "fullAnnual": 557
+    },
+    "New Mexico": {
+      "minMonthly": 19,
+      "minAnnual": 226,
+      "fullMonthly": 35,
+      "fullAnnual": 418
+    },
+    "New York": {
+      "minMonthly": 10,
+      "minAnnual": 124,
+      "fullMonthly": 23,
+      "fullAnnual": 282
+    },
+    "North Carolina": {
+      "minMonthly": 7,
+      "minAnnual": 85,
+      "fullMonthly": 31,
+      "fullAnnual": 377
+    },
+    "North Dakota": {
+      "minMonthly": 9,
+      "minAnnual": 102,
+      "fullMonthly": 19,
+      "fullAnnual": 222
+    },
+    "Ohio": {
+      "minMonthly": 10,
+      "minAnnual": 115,
+      "fullMonthly": 26,
+      "fullAnnual": 315
+    },
+    "Oklahoma": {
+      "minMonthly": 11,
+      "minAnnual": 130,
+      "fullMonthly": 27,
+      "fullAnnual": 319
+    },
+    "Oregon": {
+      "minMonthly": 12,
+      "minAnnual": 142,
+      "fullMonthly": 31,
+      "fullAnnual": 368
+    },
+    "Pennsylvania": {
+      "minMonthly": 8,
+      "minAnnual": 100,
+      "fullMonthly": 24,
+      "fullAnnual": 284
+    },
+    "Rhode Island": {
+      "minMonthly": 24,
+      "minAnnual": 288,
+      "fullMonthly": 47,
+      "fullAnnual": 565
+    },
+    "South Carolina": {
+      "minMonthly": 16,
+      "minAnnual": 192,
+      "fullMonthly": 30,
+      "fullAnnual": 360
+    },
+    "South Dakota": {
+      "minMonthly": 9,
+      "minAnnual": 108,
+      "fullMonthly": 20,
+      "fullAnnual": 237
+    },
+    "Tennessee": {
+      "minMonthly": 7,
+      "minAnnual": 89,
+      "fullMonthly": 34,
+      "fullAnnual": 411
+    },
+    "Texas": {
+      "minMonthly": 15,
+      "minAnnual": 184,
+      "fullMonthly": 39,
+      "fullAnnual": 472
+    },
+    "Utah": {
+      "minMonthly": 10,
+      "minAnnual": 119,
+      "fullMonthly": 31,
+      "fullAnnual": 376
+    },
+    "Vermont": {
+      "minMonthly": 13,
+      "minAnnual": 158,
+      "fullMonthly": 28,
+      "fullAnnual": 337
+    },
+    "Virginia": {
+      "minMonthly": 16,
+      "minAnnual": 198,
+      "fullMonthly": 34,
+      "fullAnnual": 413
+    },
+    "Washington": {
+      "minMonthly": 8,
+      "minAnnual": 91,
+      "fullMonthly": 24,
+      "fullAnnual": 288
+    },
+    "West Virginia": {
+      "minMonthly": 21,
+      "minAnnual": 254,
+      "fullMonthly": 41,
+      "fullAnnual": 490
+    },
+    "Wisconsin": {
+      "minMonthly": 11,
+      "minAnnual": 127,
+      "fullMonthly": 24,
+      "fullAnnual": 291
+    },
+    "Wyoming": {
+      "minMonthly": 7,
+      "minAnnual": 88,
+      "fullMonthly": 21,
+      "fullAnnual": 247
+    }
+  }
+}

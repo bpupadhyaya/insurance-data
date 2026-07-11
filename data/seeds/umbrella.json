@@ -1,0 +1,12 @@
+{
+  "meta": {
+    "sourceName": "ACE Private Risk Services (Chubb) umbrella cost study, as reported by Forbes Advisor",
+    "sourceURL": "https://www.forbes.com/advisor/car-insurance/umbrella-insurance/",
+    "snapshotDate": "2026-07-10"
+  },
+  "profiles": [
+    { "label": "1 home, 2 cars, 2 drivers", "coverage": "$1M", "annualPremium": 383 },
+    { "label": "1 home, 2 cars, 2 drivers", "coverage": "$5M", "annualPremium": 608 },
+    { "label": "3 homes, 4 cars, 3 drivers (1 under 25), 1 boat", "coverage": "$1M", "annualPremium": 563 }
+  ]
+}

@@ -1,0 +1,12 @@
+{
+  "meta": {
+    "sourceName": "Squaremouth travel insurance marketplace, live purchased-policy data",
+    "sourceURL": "https://www.squaremouth.com/resources/live-data",
+    "snapshotDate": "2026-07-10"
+  },
+  "plans": [
+    { "label": "Single-trip comprehensive (avg. 15-day trip)", "avgCost": 307, "note": "About 6% of insured trip cost" },
+    { "label": "Annual multi-trip plan", "avgCost": 420, "note": "Unlimited trips, under $2/day" },
+    { "label": "International single-trip", "avgCost": 466, "note": "About $30/day" }
+  ]
+}

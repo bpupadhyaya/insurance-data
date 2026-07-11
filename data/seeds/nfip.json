@@ -1,0 +1,92 @@
+{
+ "OH-Franklin": {
+  "state": "OH",
+  "county": "Franklin",
+  "fips": "39049",
+  "totalPoliciesSampled": 400,
+  "zones": {
+   "A/AE (High-risk, 1%-annual-chance)": {
+    "avgPremium": 1685,
+    "medianPremium": 1428,
+    "policyCount": 210
+   },
+   "X (Moderate-to-low risk)": {
+    "avgPremium": 495,
+    "medianPremium": 494,
+    "policyCount": 190
+   }
+  }
+ },
+ "TX-Harris": {
+  "state": "TX",
+  "county": "Harris",
+  "fips": "48201",
+  "totalPoliciesSampled": 400,
+  "zones": {
+   "X (Moderate-to-low risk)": {
+    "avgPremium": 499,
+    "medianPremium": 507,
+    "policyCount": 264
+   },
+   "A/AE (High-risk, 1%-annual-chance)": {
+    "avgPremium": 953,
+    "medianPremium": 632,
+    "policyCount": 134
+   }
+  }
+ },
+ "FL-Miami-Dade": {
+  "state": "FL",
+  "county": "Miami-Dade",
+  "fips": "12086",
+  "totalPoliciesSampled": 400,
+  "zones": {
+   "A/AE (High-risk, 1%-annual-chance)": {
+    "avgPremium": 599,
+    "medianPremium": 398,
+    "policyCount": 376
+   },
+   "X (Moderate-to-low risk)": {
+    "avgPremium": 473,
+    "medianPremium": 507,
+    "policyCount": 24
+   }
+  }
+ },
+ "FL-Broward": {
+  "state": "FL",
+  "county": "Broward",
+  "fips": "12011",
+  "totalPoliciesSampled": 400,
+  "zones": {
+   "A/AE (High-risk, 1%-annual-chance)": {
+    "avgPremium": 535,
+    "medianPremium": 425,
+    "policyCount": 259
+   },
+   "X (Moderate-to-low risk)": {
+    "avgPremium": 483,
+    "medianPremium": 507,
+    "policyCount": 141
+   }
+  }
+ },
+ "TX-Dallas": {
+  "state": "TX",
+  "county": "Dallas",
+  "fips": "48113",
+  "totalPoliciesSampled": 400,
+  "zones": {
+   "A/AE (High-risk, 1%-annual-chance)": {
+    "avgPremium": 1387,
+    "medianPremium": 967,
+    "policyCount": 185
+   },
+   "X (Moderate-to-low risk)": {
+    "avgPremium": 522,
+    "medianPremium": 507,
+    "policyCount": 215
+   }
+  }
+ }
+}

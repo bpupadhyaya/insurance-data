@@ -1,0 +1,98 @@
+{
+ "meta": {
+  "sourceName": "USDA RMA Product Management Bulletin PM-26-012 (Feb 2026 Discovery Period)",
+  "sourceURL": "https://www.rma.usda.gov/policy-procedure/bulletins-memos/product-management-bulletin/pm-26-012-2026-crop-year-cy-common",
+  "discoveryPeriod": "February 1-28, 2026",
+  "snapshotDate": "2026-07-10"
+ },
+ "crops": {
+  "corn": {
+   "commodity": "Corn",
+   "unit": "bu",
+   "practiceType": "All (Non-High Amylose)",
+   "priceCurrent": 4.62,
+   "volCurrent": 0.15,
+   "pricePrior": 4.7,
+   "volPrior": 0.18,
+   "priorYear": 2025,
+   "states": {
+    "IL": {
+     "name": "Illinois",
+     "vol": 0.15
+    },
+    "IA": {
+     "name": "Iowa",
+     "vol": 0.15
+    },
+    "KS": {
+     "name": "Kansas",
+     "vol": 0.15
+    },
+    "OH": {
+     "name": "Ohio",
+     "vol": 0.15
+    },
+    "TX": {
+     "name": "Texas",
+     "vol": 0.14
+    }
+   }
+  },
+  "soybeans": {
+   "commodity": "Soybeans",
+   "unit": "bu",
+   "practiceType": "All",
+   "priceCurrent": 11.09,
+   "volCurrent": 0.13,
+   "pricePrior": 10.54,
+   "volPrior": 0.14,
+   "priorYear": 2025,
+   "states": {
+    "IL": {
+     "name": "Illinois",
+     "vol": 0.13
+    },
+    "IA": {
+     "name": "Iowa",
+     "vol": 0.13
+    },
+    "KS": {
+     "name": "Kansas",
+     "vol": 0.13
+    },
+    "OH": {
+     "name": "Ohio",
+     "vol": 0.13
+    },
+    "TX": {
+     "name": "Texas",
+     "vol": 0.13
+    }
+   }
+  },
+  "wheat": {
+   "commodity": "Wheat (Spring)",
+   "unit": "bu",
+   "practiceType": "Spring",
+   "priceCurrent": 6.19,
+   "volCurrent": 0.16,
+   "pricePrior": null,
+   "volPrior": null,
+   "priorYear": null,
+   "states": {
+    "ND": {
+     "name": "North Dakota",
+     "vol": 0.16
+    },
+    "MT": {
+     "name": "Montana",
+     "vol": 0.16
+    },
+    "SD": {
+     "name": "South Dakota",
+     "vol": 0.16
+    }
+   }
+  }
+ }
+}

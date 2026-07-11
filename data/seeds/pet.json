@@ -1,0 +1,12 @@
+{
+  "meta": {
+    "sourceName": "NAPHIA (North American Pet Health Insurance Association) 2024 State of the Industry Report",
+    "sourceURL": "https://naphia.org/industry-data/",
+    "snapshotDate": "2026-07-10",
+    "totalWrittenPremiumUSD": 5200000000
+  },
+  "species": {
+    "dog": { "name": "Dog", "avgAnnualPremium": 749.29 },
+    "cat": { "name": "Cat", "avgAnnualPremium": 386.47 }
+  }
+}
