@@ -1,6 +1,6 @@
 # insurance-data
 
-Refreshed data for the [Insurance Hub](https://github.com/bpupadhyaya/insurance) app's on-device "Refresh data" button (Settings tab). This repo holds no app code -- just the pipeline that fetches/parses public insurance data sources and publishes the result as static JSON files via GitHub Pages, and the manually-curated seed files for sources that can't be scripted yet.
+Refreshed data for the [Insurance Hub](http://equalinformation.com/insurance-site/) app's on-device "Refresh data" button (Settings tab). This repo holds no app code -- just the pipeline that fetches/parses public insurance data sources and publishes the result as static JSON files via GitHub Pages, and the manually-curated seed files for sources that can't be scripted yet.
 
 Why this exists: the app can't parse a 58MB CMS spreadsheet or a WAF-blocked survey site on-device for every user. This pipeline does that fetching/parsing once, on a schedule, and publishes the already-clean result so the app's refresh button is just a plain HTTPS GET.
 
