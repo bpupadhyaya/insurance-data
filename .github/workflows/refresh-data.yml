@@ -2,10 +2,18 @@ name: Refresh and publish data
 
 on:
   schedule:
-    # Every Monday 09:00 UTC. Cadence matches how often the underlying
-    # sources actually change (CMS/NAIC/etc. update far less than daily);
-    # a tighter schedule would just burn free Actions minutes for no gain.
-    - cron: "0 9 * * 1"
+    # Hourly. This repo is public, so GitHub Actions minutes are free
+    # regardless of cadence (https://docs.github.com/actions -- only
+    # private repos meter minutes) -- cost was never the constraint here.
+    # The constraint is that CMS/Census/NAIC don't publish sub-daily, so
+    # anything tighter than hourly would just hammer their APIs for
+    # identical data. Hourly is the useful ceiling: it's as fast as a
+    # genuinely new Texas SERFF filing (data.texas.gov updates on its own
+    # schedule through the day) or a manifest fix can land, without
+    # polling a static source needlessly. Below hourly (e.g. every 5-15
+    # min, cron's real floor) buys nothing for these sources and risks
+    # GitHub silently deprioritizing an overly-chatty schedule under load.
+    - cron: "0 * * * *"
   workflow_dispatch: {}
 
 permissions:
