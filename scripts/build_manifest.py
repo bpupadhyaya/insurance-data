@@ -40,6 +40,7 @@ def main():
 
     for module_name, label in [
         ("fetch_qhp", "Health (CMS QHP Landscape)"),
+        ("fetch_medicare", "Medicare Advantage (CMS Landscape)"),
         ("fetch_zip_counties", "ZIP-county crosswalk (Census)"),
         ("fetch_tx_filings", "Texas rate filings (data.texas.gov)"),
     ]:

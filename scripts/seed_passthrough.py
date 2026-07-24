@@ -18,6 +18,9 @@ and hit a real, documented blocker:
     weekly free CI job can't reduce that to zone-level averages without
     its own dedicated design (see dotfiles memory for the investigation).
     Kept as a seed until that's built out separately.
+  - AALTCI's annual LTC Price Index: a public webpage of tables, not a
+    downloadable file or API -- same shape of source as the Life/MoneyGeek
+    survey above (ltc).
 
 These datasets are still real, cited, and dated -- just not automatically
 refreshable yet. This script copies the current seed file verbatim into
@@ -52,6 +55,10 @@ SEEDS = [
     {
         "dataset_id": "life", "domain_id": "life", "kind": "life_term_rates",
         "seed_file": "life.json", "published_file": "life.json",
+    },
+    {
+        "dataset_id": "ltc", "domain_id": "longtermcare", "kind": "ltc_price_index",
+        "seed_file": "ltc.json", "published_file": "ltc.json",
     },
     {
         "dataset_id": "pet", "domain_id": "pet", "kind": "pet_rates",
